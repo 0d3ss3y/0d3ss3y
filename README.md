@@ -1,37 +1,46 @@
-# 👨‍💻 About Me
+<h1 align="center">🌌 Hello, I'm Letlotlo Khoali 🌌</h1>
 
-Hello! I'm a **Data Scientist & Software Engineer** with a passion for transforming raw data into actionable insights and creating cutting-edge software solutions. I aim to bridge the gap between **Software Engineering**, **Data Science**, **Machine Learning**, **Data Engineering**, **Software Architecture**, and **Cybersecurity**.
+<p align="center">
+  <b>Data Scientist | Software Engineer | Machine Learning Enthusiast | Cybersecurity Advocate</b>
+  <i>A passionate <b>Data Scientist</b>, <b>Software Engineer</b>, and <b>Cybersecurity Enthusiast</b> on a journey to make data-driven impacts.</i>
+</p>
 
-With a foundation in **Python**, **Java**, and **SQL**, I've been honing my skills in **Machine Learning**, **Data Engineering**, and **Software Development**. I thrive on solving complex problems and building scalable, secure systems that drive impactful decision-making.
-
----
-
-## 🚀 My Journey
-
-### **Software Engineering**
-- Building and deploying robust applications with **Java**, **Node.js**, and **Python**.
-
-### **Data Science**
-- Specializing in data manipulation, analysis, and visualization using **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
-
-### **Machine Learning Engineering**
-- Working with **TensorFlow**, **PyTorch**, and **Scikit-learn** to build predictive models and deploy them into production.
-
-### **Data Engineering**
-- Developing data pipelines, ETL processes, and working with both **SQL** and **NoSQL** databases, including **PostgreSQL**, **MongoDB**, and **Hadoop**.
-
-### **Cybersecurity**
-- Applying ethical hacking and security best practices to safeguard data and applications.
+<p align="center">
+  <a href="https://github.com/0d3ss3y">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/lkhoali">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</p>
 
 ---
 
+## 🌟 About Me
+
+I'm a **Data Scientist & Software Engineer** on a mission to turn complex data into actionable insights and create robust software solutions. My work spans across **Data Science**, **Machine Learning**, **Software Development**, **Data Engineering**, **Software Architecture**, and **Cybersecurity**. I enjoy tackling challenges and delivering data-driven solutions!
+
+---
+
+## 🚀 Journey & Expertise
+
+| **Field**                | **Technologies & Tools**                                                                                                                                 |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Software Engineering** | Java, Python, Node.js                                                                                                                                   |
+| **Data Science**         | Pandas, NumPy, Matplotlib, Seaborn                                                                                                                       |
+| **Machine Learning**     | TensorFlow, PyTorch, Scikit-learn                                                                                                                        |
+| **Data Engineering**     | PostgreSQL, MongoDB, Apache Spark, Hadoop                                                                                                                |
+| **Cybersecurity**        | Ethical Hacking, Network Security                                                                                                                        |
+| **Web Development**      | HTML, CSS, JavaScript, TypeScript, React, Node.js                                                                                                        |
+| **DevOps & Cloud**       | AWS, GCP, Docker, Kubernetes                                                                                                                             |
+
+---
 ## 💡 Currently Learning
 
 I'm always striving to stay ahead of the curve, exploring new technologies and expanding my skill set:
 
-- **Deep Learning**: Diving into **NLP** and **Reinforcement Learning**.
-- **Cloud Technologies**: Gaining expertise in **AWS**, **Azure**, and **GCP**.
-- **DevOps**: Understanding the importance of continuous integration and deployment (CI/CD) pipelines.
+- 🧠 **Deep Learning**: Diving into **NLP** and **Reinforcement Learning**.
+- ☁️ **Cloud Technologies**: Gaining expertise in **AWS**, **Azure**, and **GCP**.
+- 🚀 **DevOps**: Understanding the importance of continuous integration and deployment (CI/CD) pipelines.
 
 ---
 
@@ -54,20 +63,17 @@ If you're interested in working together or just want to chat about data science
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Skills
 
-### **Programming Languages & Frameworks**
-- Python, Java, SQL, JavaScript (Node.js), HTML, CSS, TypeScript
-- TensorFlow, PyTorch, Scikit-learn
-- React, Django, Flask, Spring Boot
-
-### **Data Engineering & Databases**
-- PostgreSQL, MySQL, MongoDB, Apache Kafka, Apache Spark
-
-### **Cloud & DevOps**
-- AWS, GCP, Docker, Kubernetes
-
-### **Cybersecurity**
-- Penetration Testing, Network Security, Ethical Hacking (Kali Linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
+
+<p align="center">✨ <b>Thank you for visiting my profile!</b> ✨</p>
