@@ -1,7 +1,8 @@
 <h1 align="center">🌌 Hello, I'm Letlotlo Khoali 🌌</h1>
 
 <p align="center">
-  <b>Data Scientist | Software Engineer | Machine Learning Enthusiast | Cybersecurity Advocate</b>
+  <b>Data Scientist | Software Engineer</b> 
+  <b>Machine Learning Enthusiast | Cybersecurity Advocate</b>
   <b>On a journey to make data-driven impacts.</b>
 </p>
 
