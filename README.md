@@ -1,9 +1,9 @@
 <h1 align="center">🌌 Hello, I'm Letlotlo Khoali 🌌</h1>
 
 <p align="center">
-  <b>Data Scientist | Software Engineer</b> 
-  <b>Machine Learning Enthusiast | Cybersecurity Advocate</b>
-  <b>On a journey to make data-driven impacts.</b>
+  <b>Data Engineer | Tech Enthusiast</b> <br>
+  <b>Machine Learning Explorer | Cybersecurity Advocate</b> <br>
+  <b>On a mission to unlock the potential of data-driven solutions.</b>
 </p>
 
 <p align="center">
@@ -12,11 +12,12 @@
   </a>
   <a href="https://www.linkedin.com/in/lkhoali">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 ## 👩‍💻 About Me
-I'm a **Data Scientist & Software Engineer** on a mission to turn complex data into actionable insights and create robust software solutions. My work spans across **Data Science**, **Machine Learning**, **Software Development**, **Data Engineering**, **Software Architecture**, and **Cybersecurity**. I enjoy tackling challenges and delivering data-driven solutions!
+I'm a **Data Engineer** passionate about creating efficient data pipelines, leveraging Machine Learning to derive actionable insights, and exploring automation to optimize processes. With experience in **Data Engineering**, **Cybersecurity**, and **Software Development**, I aim to build solutions that drive meaningful impact.
 
 ---
 
@@ -25,24 +26,24 @@ I'm a **Data Scientist & Software Engineer** on a mission to turn complex data i
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
   <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
   <!-- Web Dev -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -51,28 +52,28 @@ I'm a **Data Scientist & Software Engineer** on a mission to turn complex data i
 
 | **Field**                | **Technologies**                              |
 |--------------------------|-----------------------------------------------|
-| **Software Engineering** | Python, Java, C, Node.js                      |
-| **Data Science**         | Pandas, NumPy, Matplotlib                     |
-| **Machine Learning**     | PyTorch, Scikit-learn                         |
-| **Data Engineering**     | MongoDB, Apache Spark, Hadoop, ETL Processing |
-| **Cybersecurity**        | Ethical Hacking, Network Security             |
-| **Web Development**      | HTML, CSS, JavaScript, TypeScript, Node.js    |
-| **DevOps**               | Docker                                        |
+| **Data Engineering**     | Python, SQL, Apache Spark, ETL Processes     |
+| **Machine Learning**     | PyTorch, Scikit-learn, Pandas                |
+| **Software Development** | Python, JavaScript, Node.js                 |
+| **Cybersecurity**        | Ethical Hacking, Application Security        |
+| **DevOps**               | Docker, CI/CD, Bash Scripting               |
+
 ---
 ## 💡 Currently Learning
 
-I'm always striving to stay ahead of the curve, exploring new technologies and expanding my skill set:
+I am actively exploring new technologies and deepening my expertise:
 
-- 🧠 **Deep Learning**: Diving into **NLP** and **Reinforcement Learning**.
-- ☁️ **Cloud Technologies**: Gaining expertise in **AWS**, **Azure**, and **GCP**.
-- 🚀 **DevOps**: Understanding the importance of continuous integration and deployment (CI/CD) pipelines.
-- 🌐 **Cybersecurity**: Learning more about hacking and vulnerabilities within different applications
+- 🌐 **Cloud Technologies**: Gaining proficiency in **AWS** and **Google Cloud**.
+- 🧠 **Advanced AI**: Focusing on **Deep Learning** and **NLP** applications.
+- 🔐 **Cybersecurity**: Enhancing skills in ethical hacking and vulnerability assessments.
+- 🚀 **DevOps**: Streamlining workflows with advanced CI/CD pipelines.
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0d3ss3y&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Your GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0d3ss3y&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="Letlotlo's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0d3ss3y&layout=compact&theme=radical" alt="Top languages"/>
 </div>
 
@@ -84,11 +85,11 @@ I'm always striving to stay ahead of the curve, exploring new technologies and e
   <a href="https://linkedin.com/in/lkhoali">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="samuelkhoali002@gmail.com">
+  <a href="mailto:samuelkhoali002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-lightgrey?style=flat-square&logo=gmail" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ <i>Thanks for stopping by! Let's create something incredible together.</i> ✨</p>
+<p align="center">✨ <i>Thanks for stopping by! Let’s innovate and create together.</i> ✨</p>
